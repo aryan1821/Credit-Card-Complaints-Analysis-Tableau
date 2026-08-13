@@ -91,19 +91,16 @@ Users can dynamically explore complaint data to identify important patterns and 
 
 ---
 
-## 📂 Project Structure
+## 📁 Project Structure
 
-```text
-Credit-Card-Complaints-Analysis-Tableau/
-│
-├── README.md
-├── CREDIT CARD COMPLAINTS.twbx
-├── Credit Card Data_Set.csv
-│
-└── Dashboard-Images/
-    └── Credit-Card-Complaints-Dashboard.png
-```
+| File / Folder | Description |
+|---|---|
+| `README.md` | Project documentation |
+| `CREDIT CARD COMPLAINTS.twbx` | Tableau dashboard and visualization workbook |
+| `Credit Card Data_Set.rar` | Source dataset containing customer complaint records |
+| `Credit-Card-Complaints-Dashboard.png` | Main dashboard preview image |
 
+---
 ---
 
 ## 📚 Skills Demonstrated
