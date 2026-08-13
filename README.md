@@ -6,7 +6,7 @@ An interactive **Tableau dashboard** developed to analyze credit card customer c
 
 ## 📊 Dashboard Overview
 
-![Credit Card Complaints Dashboard](Dashboard-Images/Credit%Card%Complaints%Dashboard.png)
+![Credit Card Complaints Dashboard](Credit-Card-Complaints-Dashboard.png)
 
 ---
 
