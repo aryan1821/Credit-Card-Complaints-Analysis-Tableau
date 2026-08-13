@@ -101,7 +101,6 @@ Users can dynamically explore complaint data to identify important patterns and 
 | `Credit-Card-Complaints-Dashboard.png` | Main dashboard preview image |
 
 ---
----
 
 ## 📚 Skills Demonstrated
 
